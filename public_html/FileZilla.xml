@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.65.0" platform="windows">
+	<Queue>
+		<Server>
+			<Host>206.189.135.219</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Keyfile>C:\Users\DELL\Desktop\manavtricks.in\do_pub2.ppk</Keyfile>
+			<Logontype>5</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ieee</Name>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\Event3.html</LocalFile>
+				<RemoteFile>Event3.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>7314</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\index1.css</LocalFile>
+				<RemoteFile>index1.css</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>60175</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\ahmedabad-2.png</LocalFile>
+				<RemoteFile>ahmedabad-2.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>12144</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\speaker2.jpg</LocalFile>
+				<RemoteFile>speaker2.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>73776</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\IIIT_Sri_City_Logo.png</LocalFile>
+				<RemoteFile>IIIT_Sri_City_Logo.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>15511</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\Event2.html</LocalFile>
+				<RemoteFile>Event2.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>6301</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\Two Wheeler Safety And Mobility Technologies .pdf</LocalFile>
+				<RemoteFile>Two Wheeler Safety And Mobility Technologies .pdf</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>6995488</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\team.html</LocalFile>
+				<RemoteFile>team.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>7531</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\speaker3.jpg</LocalFile>
+				<RemoteFile>speaker3.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>30098</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\co-chair-removebg-preview.png</LocalFile>
+				<RemoteFile>co-chair-removebg-preview.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>60599</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\chair.png</LocalFile>
+				<RemoteFile>chair.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>65812</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\AU_Video.mp4</LocalFile>
+				<RemoteFile>AU_Video.mp4</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>19565251</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\co-chairp-removebg-preview.png</LocalFile>
+				<RemoteFile>co-chairp-removebg-preview.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>99459</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\events.html</LocalFile>
+				<RemoteFile>events.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>13151</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\Event1.html</LocalFile>
+				<RemoteFile>Event1.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>8227</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\index.html</LocalFile>
+				<RemoteFile>index.html</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>11793</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\Screenshot 2023-08-03 095921.png</LocalFile>
+				<RemoteFile>Screenshot 2023-08-03 095921.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>158028</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\check-mark.png</LocalFile>
+				<RemoteFile>check-mark.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>9354</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\IEEE-ITSS-logo.png</LocalFile>
+				<RemoteFile>IEEE-ITSS-logo.png</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>16307</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\ieeefavicon.ico</LocalFile>
+				<RemoteFile>ieeefavicon.ico</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>50330</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\untitled design.jpg</LocalFile>
+				<RemoteFile>untitled design.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>25374</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\speaker1.jpg</LocalFile>
+				<RemoteFile>speaker1.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>14710</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\laptop.jpg</LocalFile>
+				<RemoteFile>laptop.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>15047</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\sricity.jpg</LocalFile>
+				<RemoteFile>sricity.jpg</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>81880</Size>
+			</File>
+			<File>
+				<LocalFile>C:\Users\DELL\public_html\WinterSchool on Computing and IoT Technologies for 2-wheelers.pdf</LocalFile>
+				<RemoteFile>WinterSchool on Computing and IoT Technologies for 2-wheelers.pdf</RemoteFile>
+				<RemotePath>1 0 3 var 3 www 32 ieee-itss-2-wheeler-mobility.com 11 public_html</RemotePath>
+				<Flags>16</Flags>
+				<Size>5094696</Size>
+			</File>
+		</Server>
+	</Queue>
+</FileZilla3>
