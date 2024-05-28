@@ -9,4 +9,5 @@ A static website for IEEE ITSS Sponsored Winter School
 ```
 
 **Contact**
+
 For any queries, please contact - pranaswic2022@gmail.com
