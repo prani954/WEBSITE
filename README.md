@@ -2,6 +2,9 @@
 
 A static website for IEEE ITSS Sponsored Winter School 
 
+Check out the webiste using the below link:
+https://ieee-itss-2-wheeler-mobility.vercel.app/
+
 **Technologies Used**
 ```
 1) HTML
